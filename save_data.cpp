@@ -26,7 +26,7 @@
 */
 
 
-#define SAV_MEM_BSZ    (250000)
+#define SAV_MEM_BSZ    (1111111)
 
 
 
